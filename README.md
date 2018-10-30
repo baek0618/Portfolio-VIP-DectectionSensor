@@ -1,6 +1,6 @@
 # VIP-DectectionSensor
 face_recognation을 활용한 특정인물 식별 프로젝트입니다. <br>
-ptt를 참고하세요 ~<br>
+ppt를 참고하세요 ~<br><br>
 
 **ppt :** https://github.com/baek0618/VIP-DectectionSensor/blob/master/(%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)VIP%20Detection%20Sensor.pdf <br>
 
