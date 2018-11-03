@@ -12,4 +12,6 @@ https://github.com/baek0618/VIP-DectectionSensor/blob/master/(%ED%8F%AC%ED%8A%B8
 
 **동영상 좌표**<br>
 우리반 테스트 : https://www.youtube.com/watch?v=e52dZfQ9-AA&feature=youtu.be<br>
-전용준 vs 선생님 : https://www.youtube.com/watch?v=_GOi78BfK-E<br>
+<br>
+![](https://github.com/baek0618/VIP-DectectionSensor/blob/master/store/test.png?raw=true)<br>
+선생님 vs 전용준 캐스터 구별하기 : https://www.youtube.com/watch?v=_GOi78BfK-E<br>
