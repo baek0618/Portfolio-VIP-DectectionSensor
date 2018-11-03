@@ -11,6 +11,7 @@ https://github.com/baek0618/VIP-DectectionSensor/blob/master/(%ED%8F%AC%ED%8A%B8
 
 
 **동영상 좌표**<br>
+![](https://github.com/baek0618/VIP-DectectionSensor/blob/master/store/test1.png?raw=true)<br>
 우리반 테스트 : https://www.youtube.com/watch?v=e52dZfQ9-AA&feature=youtu.be<br>
 <br>
 ![](https://github.com/baek0618/VIP-DectectionSensor/blob/master/store/test.png?raw=true)<br>
