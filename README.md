@@ -10,9 +10,9 @@ https://github.com/baek0618/VIP-DectectionSensor/blob/master/(%ED%8F%AC%ED%8A%B8
 **기타 :** Anaconda Python3.5, OpenCV 3.43.18, Dlib 19.15.99 <br>
 
 
-**동영상 좌표**<br>
+**■ 시연영상**<br><br>
 ![](https://github.com/baek0618/VIP-DectectionSensor/blob/master/store/test1.png?raw=true)<br>
-**목표 식별 테스트 :** https://www.youtube.com/watch?v=e52dZfQ9-AA&feature=youtu.be<br>
+**-목표 식별 테스트 :** https://www.youtube.com/watch?v=e52dZfQ9-AA&feature=youtu.be<br>
 <br>
 ![](https://github.com/baek0618/VIP-DectectionSensor/blob/master/store/test.png?raw=true)<br>
-**선생님 vs 전용준 캐스터 구별하기 :** https://www.youtube.com/watch?v=_GOi78BfK-E<br>
+**-선생님 vs 전용준 캐스터 구별하기 :** https://www.youtube.com/watch?v=_GOi78BfK-E<br>
